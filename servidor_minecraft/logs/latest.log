@@ -775,3 +775,6 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [12Jan2025 16:57:08.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Hog Wild!]
 [12Jan2025 16:58:25.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado hit the ground too hard
 [12Jan2025 17:03:06.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [The Wind Darkening]
+[12Jan2025 17:05:26.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Bat Mode]
+[12Jan2025 17:06:29.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chamuscado lost connection: Disconnected
+[12Jan2025 17:06:29.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado left the game

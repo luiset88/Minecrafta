@@ -179,9 +179,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-01-12 17:05:26 +0000",
       "main": "2025-01-12 04:09:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/kill_mother": {
     "criteria": {
@@ -271,6 +272,12 @@
   "cnc:giant_boaradvancement": {
     "criteria": {
       "giant_boaradvancement_0": "2025-01-12 16:57:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-01-12 17:03:06 +0000"
     },
     "done": true
   },
