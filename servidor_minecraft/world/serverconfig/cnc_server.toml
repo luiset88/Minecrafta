@@ -2,8 +2,6 @@
 ["Critter Spawning"]
 	"Elk Spawning" = true
 	"Coyote Spawning" = true
-	"Greywolf Spawning" = true
-	"Whitetail Spawning" = true
 	"Cougar Spawning" = true
 	"Wolverine Spawning" = true
 	"Ringtail Spawning" = true
@@ -15,15 +13,19 @@
 	"Snake Spawning" = true
 	"Rattlesnake Spawning" = true
 	"Pit Viper Spawning" = true
+	"Timber Wolf Spawning" = true
+	"White-Tailed Deer Spawning" = true
+	"Turkey Spawning" = true
+	"Caribou Spawning" = true
 
 ["Crawler Spawning"]
 	"Wendigo Spawning" = true
-	"Bewitched Greywolf Spawning" = true
 	"Chupacabra Spawning" = true
 	"Squonk Spawning" = true
 	"Howler Spawning" = true
 	"Sasquatch Spawning" = true
 	"Wechuge Spawning" = true
+	"Bewitched Timber Wolf Spawning" = true
 
 [Other]
 	#How long an Effigy lasts when lighten up. This is measured in seconds.
