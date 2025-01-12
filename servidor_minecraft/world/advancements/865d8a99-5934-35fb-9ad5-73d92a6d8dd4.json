@@ -268,5 +268,17 @@
     },
     "done": true
   },
+  "cnc:giant_boaradvancement": {
+    "criteria": {
+      "giant_boaradvancement_0": "2025-01-12 16:57:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-01-12 17:00:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
