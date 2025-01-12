@@ -797,3 +797,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Jan2025 04:37:56.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Sweet Dreams]
 [12Jan2025 04:39:28.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Vasebreaker]
 [12Jan2025 04:39:55.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Oh Deer]
+[12Jan2025 04:42:01.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Monster Hunter]
+[12Jan2025 04:42:31.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Not Today, Thank You]
+[12Jan2025 04:42:53.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado was slain by Vampire Hunter

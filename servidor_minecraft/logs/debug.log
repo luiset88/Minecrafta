@@ -7125,3 +7125,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Jan2025 04:39:37.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Jan2025 04:39:37.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Jan2025 04:39:55.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Oh Deer]
+[12Jan2025 04:42:01.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Monster Hunter]
+[12Jan2025 04:42:31.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Not Today, Thank You]
+[12Jan2025 04:42:53.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado was slain by Vampire Hunter
+[12Jan2025 04:42:57.544] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Chamuscado has new faction level vampirism:vampire 3
+[12Jan2025 04:44:37.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 04:44:37.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 04:45:08.711] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity cnc:cougar
+[12Jan2025 04:45:14.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[12Jan2025 04:46:08.813] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 10.82 and blood value 0 for entity untamedwilds:baleen_whale
+[12Jan2025 04:46:28.058] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity cnc:greywolf
+[12Jan2025 04:46:39.515] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity cnc:greywolf
+[12Jan2025 04:46:44.904] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity cnc:greywolf
+[12Jan2025 04:46:44.905] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity cnc:greywolf
+[12Jan2025 04:46:48.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:stone_fountain
+[12Jan2025 04:46:48.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_14
+[12Jan2025 04:46:51.963] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity cnc:greywolf
+[12Jan2025 04:46:56.597] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/entities/hunter_trainer
+[12Jan2025 04:46:59.457] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity cnc:greywolf
+[12Jan2025 04:47:52.864] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.81 and blood value 5 for entity born_in_chaos_v1:thornshell_crab
+[12Jan2025 04:49:37.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 04:49:37.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

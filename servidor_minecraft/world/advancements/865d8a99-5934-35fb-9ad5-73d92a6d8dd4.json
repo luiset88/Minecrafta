@@ -224,6 +224,36 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-01-12 04:42:01 +0000"
+    },
+    "done": false
+  },
+  "cnc:whitetail_advancement": {
+    "criteria": {
+      "whitetail_advancement_0": "2025-01-12 04:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-12 04:42:31 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-01-12 04:42:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-01-12 04:42:01 +0000"
+    },
+    "done": true
+  },
   "cnc:howleradvancement": {
     "criteria": {
       "howleradvancement_0": "2025-01-12 04:28:17 +0000"
