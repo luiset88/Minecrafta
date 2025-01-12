@@ -1,0 +1,77 @@
+{
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-01-03 20:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-03 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_snowy": "2025-01-03 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_upright_recipe": "2025-01-03 20:33:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-01-03 20:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2025-01-03 20:46:47 +0000",
+      "minecraft:snowy_plains": "2025-01-03 20:44:28 +0000",
+      "minecraft:forest": "2025-01-03 20:33:03 +0000"
+    },
+    "done": false
+  },
+  "under_the_moon:root": {
+    "criteria": {
+      "root_0": "2025-01-03 20:33:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-03 20:33:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-03 20:33:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-01-03 20:33:02 +0000"
+    },
+    "done": true
+  },
+  "cnc:cnc": {
+    "criteria": {
+      "cnc_0": "2025-01-03 20:33:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-03 20:33:02 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
