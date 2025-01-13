@@ -118,9 +118,11 @@
       "minecraft:old_growth_pine_taiga": "2025-01-12 04:04:39 +0000",
       "minecraft:taiga": "2025-01-12 04:11:53 +0000",
       "minecraft:frozen_river": "2025-01-13 00:56:25 +0000",
+      "minecraft:beach": "2025-01-13 01:46:52 +0000",
       "minecraft:stony_shore": "2025-01-12 04:05:09 +0000",
       "minecraft:snowy_taiga": "2025-01-12 04:31:15 +0000",
       "minecraft:grove": "2025-01-12 04:38:42 +0000",
+      "minecraft:cold_ocean": "2025-01-13 01:47:46 +0000",
       "minecraft:forest": "2025-01-12 04:31:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-12 04:07:54 +0000",
       "minecraft:frozen_peaks": "2025-01-12 04:49:47 +0000",
@@ -280,6 +282,12 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-01-12 17:03:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-01-13 01:42:16 +0000"
     },
     "done": true
   },

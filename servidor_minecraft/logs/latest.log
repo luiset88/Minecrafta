@@ -795,3 +795,39 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [13Jan2025 01:10:32.459] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
 [13Jan2025 01:10:44.518] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
 [13Jan2025 01:10:44.518] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:43:40.159] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:43:40.163] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:43:42.801] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:43:53.217] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:43:53.218] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:43:55.024] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:43:55.026] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:43:56.566] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:43:56.567] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:43:56.567] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:43:58.908] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:44:12.213] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11367, l='ServerLevel[world]', x=29.72, y=121.00, z=-2974.42, removed=DISCARDED]
+[13Jan2025 01:44:18.774] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11390, l='ServerLevel[world]', x=47.02, y=121.00, z=-2990.96, removed=DISCARDED]
+[13Jan2025 01:44:50.155] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:44:50.155] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:45:11.655] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11390, l='ServerLevel[world]', x=47.02, y=121.00, z=-2990.96, removed=DISCARDED]
+[13Jan2025 01:45:12.141] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11367, l='ServerLevel[world]', x=29.72, y=121.00, z=-2974.42, removed=DISCARDED]
+[13Jan2025 01:45:50.039] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11390, l='ServerLevel[world]', x=47.02, y=121.00, z=-2990.96, removed=DISCARDED]
+[13Jan2025 01:45:52.029] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11390, l='ServerLevel[world]', x=47.02, y=121.00, z=-2990.96, removed=DISCARDED]
+[13Jan2025 01:45:57.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11390, l='ServerLevel[world]', x=47.02, y=121.00, z=-2990.96, removed=DISCARDED]
+[13Jan2025 01:46:04.689] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11390, l='ServerLevel[world]', x=47.02, y=121.00, z=-2990.96, removed=DISCARDED]
+[13Jan2025 01:46:33.530] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:46:33.530] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:46:33.530] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:46:35.369] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:46:48.957] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:46:48.957] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:46:50.615] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:47:28.412] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:47:28.413] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:47:34.554] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:47:34.556] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:47:37.564] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:47:37.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:48:55.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/15778, l='ServerLevel[world]', x=-125.30, y=139.00, z=-2520.30] died: Vampire Baron Level 1 was slain by Vampire Baron Level 4
+[13Jan2025 01:51:25.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Chamuscado fell from a high place, they gave up

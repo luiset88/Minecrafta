@@ -7327,3 +7327,104 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [13Jan2025 01:24:27.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Jan2025 01:29:27.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 01:29:27.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 01:34:27.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 01:34:27.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 01:39:27.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 01:39:27.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 01:43:04.060] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:horse_pen
+[13Jan2025 01:43:08.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fire_camp
+[13Jan2025 01:43:09.971] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[13Jan2025 01:43:33.498] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 0 for entity untamedwilds:manatee
+[13Jan2025 01:43:40.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/large_floating_island
+[13Jan2025 01:43:40.159] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:43:40.163] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:43:42.801] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:43:53.217] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:43:53.218] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:43:55.024] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:43:55.026] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:43:56.566] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:43:56.567] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:43:56.567] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:43:58.908] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:44:00.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[13Jan2025 01:44:00.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[13Jan2025 01:44:00.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_6
+[13Jan2025 01:44:07.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[13Jan2025 01:44:07.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/pillager
+[13Jan2025 01:44:07.923] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/vindicator
+[13Jan2025 01:44:07.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters2
+[13Jan2025 01:44:07.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/evoker
+[13Jan2025 01:44:07.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/treasure1
+[13Jan2025 01:44:07.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/witch
+[13Jan2025 01:44:07.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_ladder
+[13Jan2025 01:44:07.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_entrance
+[13Jan2025 01:44:07.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall3
+[13Jan2025 01:44:07.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall_bedroom3
+[13Jan2025 01:44:07.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall_bedroom2
+[13Jan2025 01:44:07.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall3_enchanting
+[13Jan2025 01:44:12.213] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11367, l='ServerLevel[world]', x=29.72, y=121.00, z=-2974.42, removed=DISCARDED]
+[13Jan2025 01:44:12.842] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity quark:shiba
+[13Jan2025 01:44:12.842] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity quark:shiba
+[13Jan2025 01:44:12.842] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity quark:shiba
+[13Jan2025 01:44:18.774] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11390, l='ServerLevel[world]', x=47.02, y=121.00, z=-2990.96, removed=DISCARDED]
+[13Jan2025 01:44:27.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 01:44:27.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 01:44:50.155] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:44:50.155] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:44:53.299] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.2 and blood value 15 for entity untamedwilds:spitter
+[13Jan2025 01:44:53.301] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.2 and blood value 15 for entity untamedwilds:spitter
+[13Jan2025 01:44:56.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[13Jan2025 01:44:58.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[13Jan2025 01:44:58.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_01
+[13Jan2025 01:44:58.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_armorer_1
+[13Jan2025 01:44:58.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_shepherd_1
+[13Jan2025 01:45:00.420] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_09
+[13Jan2025 01:45:11.655] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11390, l='ServerLevel[world]', x=47.02, y=121.00, z=-2990.96, removed=DISCARDED]
+[13Jan2025 01:45:12.141] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11367, l='ServerLevel[world]', x=29.72, y=121.00, z=-2974.42, removed=DISCARDED]
+[13Jan2025 01:45:50.039] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11390, l='ServerLevel[world]', x=47.02, y=121.00, z=-2990.96, removed=DISCARDED]
+[13Jan2025 01:45:52.029] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11390, l='ServerLevel[world]', x=47.02, y=121.00, z=-2990.96, removed=DISCARDED]
+[13Jan2025 01:45:57.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11390, l='ServerLevel[world]', x=47.02, y=121.00, z=-2990.96, removed=DISCARDED]
+[13Jan2025 01:46:04.689] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11390, l='ServerLevel[world]', x=47.02, y=121.00, z=-2990.96, removed=DISCARDED]
+[13Jan2025 01:46:17.091] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[13Jan2025 01:46:25.153] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.2 and blood value 15 for entity untamedwilds:spitter
+[13Jan2025 01:46:33.530] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:46:33.530] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:46:33.530] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:46:35.369] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:46:41.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[13Jan2025 01:46:42.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/treasure2
+[13Jan2025 01:46:42.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall_bedroom11
+[13Jan2025 01:46:42.923] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall_storage
+[13Jan2025 01:46:48.957] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:46:48.957] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:46:50.615] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:47:26.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[13Jan2025 01:47:26.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_giant_cross_1
+[13Jan2025 01:47:26.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_main_house_1
+[13Jan2025 01:47:26.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/side/beach_outdoor_shack_1
+[13Jan2025 01:47:28.412] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:47:28.413] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:47:29.892] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity ecologics:coconut_crab
+[13Jan2025 01:47:34.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[13Jan2025 01:47:34.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[13Jan2025 01:47:34.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[13Jan2025 01:47:34.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[13Jan2025 01:47:34.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[13Jan2025 01:47:34.554] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 01:47:34.556] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:47:37.564] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:47:37.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 01:47:37.744] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.22 and blood value 0 for entity cnc:goose
+[13Jan2025 01:47:49.194] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 10.82 and blood value 0 for entity untamedwilds:baleen_whale
+[13Jan2025 01:48:16.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[13Jan2025 01:48:16.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/bottom
+[13Jan2025 01:48:55.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/15778, l='ServerLevel[world]', x=-125.30, y=139.00, z=-2520.30] died: Vampire Baron Level 1 was slain by Vampire Baron Level 4
+[13Jan2025 01:49:27.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 01:49:27.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 01:51:25.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Chamuscado fell from a high place, they gave up
+[13Jan2025 01:51:26.988] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Chamuscado has new faction level vampirism:vampire 4
+[13Jan2025 01:54:27.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 01:54:27.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 01:59:27.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 01:59:27.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
