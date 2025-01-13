@@ -312,6 +312,12 @@
     },
     "done": true
   },
+  "cnc:wendigoadvancement": {
+    "criteria": {
+      "wendigoadvancement_0": "2025-01-13 03:55:18 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-01-13 02:59:59 +0000"

@@ -7692,3 +7692,11 @@ java.lang.Throwable: null
 [13Jan2025 03:54:27.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Jan2025 03:54:36.171] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
 [13Jan2025 03:55:18.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has completed the challenge [Harrowing Hunger]
+[13Jan2025 03:56:43.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Chamuscado was slain by Vampire Baron Level 2, they gave up
+[13Jan2025 03:56:45.188] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Chamuscado has new faction level vampirism:vampire 4
+[13Jan2025 03:58:26.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Chamuscado was slain by Vampire Baron Level 2, they gave up
+[13Jan2025 03:58:28.298] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Chamuscado has new faction level vampirism:vampire 4
+[13Jan2025 03:59:27.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 03:59:27.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 04:04:27.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 04:04:27.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
