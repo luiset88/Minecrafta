@@ -7565,3 +7565,103 @@ java.lang.Throwable: null
 [13Jan2025 02:37:55.765] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
 [13Jan2025 02:39:27.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 02:39:27.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:44:27.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 02:44:27.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:47:53.075] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/487, l='ServerLevel[world]', x=-198.50, y=160.00, z=-2406.44, removed=DISCARDED]
+[13Jan2025 02:47:53.225] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 02:48:14.247] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
+[13Jan2025 02:48:37.689] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 5.6 and blood value 0 for entity quark:toretoise
+[13Jan2025 02:48:50.090] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
+[13Jan2025 02:49:27.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 02:49:27.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:50:16.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Take Aim]
+[13Jan2025 02:50:57.613] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
+[13Jan2025 02:51:18.871] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
+[13Jan2025 02:51:24.908] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
+[13Jan2025 02:52:01.419] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
+[13Jan2025 02:54:27.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 02:54:27.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:54:38.751] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/487, l='ServerLevel[world]', x=-198.50, y=160.00, z=-2406.44, removed=DISCARDED]
+[13Jan2025 02:54:39.103] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 02:55:11.916] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/487, l='ServerLevel[world]', x=-198.50, y=160.00, z=-2406.44, removed=DISCARDED]
+[13Jan2025 02:55:11.950] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 02:55:40.988] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
+[13Jan2025 02:56:15.121] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
+[13Jan2025 02:56:34.249] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 02:57:15.699] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 02:57:30.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[13Jan2025 02:57:30.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[13Jan2025 02:57:30.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[13Jan2025 02:57:30.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[13Jan2025 02:57:30.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[13Jan2025 02:57:30.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[13Jan2025 02:57:30.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[13Jan2025 02:57:30.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[13Jan2025 02:57:30.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[13Jan2025 02:57:30.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[13Jan2025 02:57:33.918] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 02:57:43.554] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 02:57:43.554] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 02:57:45.053] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 02:57:46.563] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 02:57:50.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[13Jan2025 02:57:51.007] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 02:57:51.849] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 02:57:56.638] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity cnc:cougar
+[13Jan2025 02:57:56.670] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 02:57:56.671] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 02:57:59.351] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 02:57:59.351] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 02:58:34.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-689, y=143, z=-2423} BlockPos{x=-688, y=142, z=-2421}
+[13Jan2025 02:58:34.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-689, y=143, z=-2423} BlockPos{x=-688, y=142, z=-2421}
+[13Jan2025 02:58:57.745] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.37 and blood value 15 for entity gnumus:big_snout
+[13Jan2025 02:59:04.111] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 02:59:04.249] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.37 and blood value 15 for entity gnumus:big_snout
+[13Jan2025 02:59:04.249] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.37 and blood value 15 for entity gnumus:big_snout
+[13Jan2025 02:59:08.756] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 02:59:08.756] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 02:59:08.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 02:59:27.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 02:59:27.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:59:47.395] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity cnc:ringtail
+[13Jan2025 03:00:04.848] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.37 and blood value 15 for entity gnumus:big_snout
+[13Jan2025 03:00:04.848] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.37 and blood value 15 for entity gnumus:big_snout
+[13Jan2025 03:01:58.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[13Jan2025 03:01:58.425] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id corpse:corpse
+[13Jan2025 03:04:04.695] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.65 and blood value 4 for entity ecologics:squirrel
+[13Jan2025 03:04:04.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/entities/hunter_trainer
+[13Jan2025 03:04:05.740] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.65 and blood value 4 for entity ecologics:squirrel
+[13Jan2025 03:04:27.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 03:04:27.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 03:06:08.190] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 03:06:08.191] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[13Jan2025 03:06:33.360] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 03:06:33.374] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 03:08:15.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [In The Pines]
+[13Jan2025 03:09:27.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 03:09:27.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 03:13:03.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado was slain by Vampire Hunter
+[13Jan2025 03:13:06.637] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Chamuscado has new faction level vampirism:vampire 4
+[13Jan2025 03:13:49.637] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 03:13:49.789] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/487, l='ServerLevel[world]', x=-198.50, y=160.00, z=-2406.44, removed=DISCARDED]
+[13Jan2025 03:14:27.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 03:14:27.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 03:15:21.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado was slain by Vampire Hunter
+[13Jan2025 03:15:26.173] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Chamuscado has new faction level vampirism:vampire 4
+[13Jan2025 03:15:46.594] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 03:15:46.661] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/487, l='ServerLevel[world]', x=-198.50, y=160.00, z=-2406.44, removed=DISCARDED]
+[13Jan2025 03:17:00.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado was slain by Vampire Hunter
+[13Jan2025 03:17:03.044] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Chamuscado has new faction level vampirism:vampire 4
+[13Jan2025 03:17:22.579] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/487, l='ServerLevel[world]', x=-198.50, y=160.00, z=-2406.44, removed=DISCARDED]
+[13Jan2025 03:17:22.579] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 03:18:38.843] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.81 and blood value 5 for entity born_in_chaos_v1:thornshell_crab
+[13Jan2025 03:19:27.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 03:19:27.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 03:20:50.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[13Jan2025 03:20:50.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[13Jan2025 03:23:31.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Chamuscado fell from a high place, they gave up
+[13Jan2025 03:23:32.539] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Chamuscado has new faction level vampirism:vampire 4
+[13Jan2025 03:24:13.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Chamuscado was slain by Vampire Baron Level 3, they gave up
+[13Jan2025 03:24:14.401] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Chamuscado has new faction level vampirism:vampire 4
+[13Jan2025 03:24:27.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 03:24:27.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
