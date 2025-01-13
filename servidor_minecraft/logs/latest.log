@@ -967,3 +967,11 @@ java.lang.Throwable: null
 [13Jan2025 03:24:13.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Chamuscado was slain by Vampire Baron Level 3, they gave up
 [13Jan2025 03:32:22.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has completed the challenge [Regicide]
 [13Jan2025 03:32:22.775] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/37488, l='ServerLevel[world]', x=-51.45, y=106.75, z=-2586.30] died: Vampire Baron Level 1 was slain by Chamuscado
+[13Jan2025 03:40:27.128] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/487, l='ServerLevel[world]', x=-198.50, y=160.00, z=-2406.44, removed=DISCARDED]
+[13Jan2025 03:40:27.379] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 03:41:58.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado was slain by Vampire Baron Level 1
+[13Jan2025 03:42:18.690] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/487, l='ServerLevel[world]', x=-198.50, y=160.00, z=-2406.44, removed=DISCARDED]
+[13Jan2025 03:42:18.738] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 03:42:58.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/40008, l='ServerLevel[world]', x=-139.50, y=152.00, z=-2467.30] died: Vampire Baron Level 1 was slain by Chamuscado
+[13Jan2025 03:43:14.677] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 03:43:32.138] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
