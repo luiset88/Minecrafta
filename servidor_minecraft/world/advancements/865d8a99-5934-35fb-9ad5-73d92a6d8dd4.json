@@ -306,6 +306,18 @@
     },
     "done": true
   },
+  "exposure:adventure/spotlight": {
+    "criteria": {
+      "take_selfie": "2025-01-13 04:08:43 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/exposure": {
+    "criteria": {
+      "expose_frame": "2025-01-13 04:06:39 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-01-13 00:55:26 +0000"

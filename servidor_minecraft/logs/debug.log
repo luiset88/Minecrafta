@@ -7700,3 +7700,11 @@ java.lang.Throwable: null
 [13Jan2025 03:59:27.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Jan2025 04:04:27.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 04:04:27.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 04:06:39.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Exposure]
+[13Jan2025 04:08:43.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Was that a spotlight? On me?]
+[13Jan2025 04:09:27.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 04:09:27.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 04:09:48.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chamuscado lost connection: Disconnected
+[13Jan2025 04:09:48.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado left the game
+[13Jan2025 04:14:27.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 04:14:27.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

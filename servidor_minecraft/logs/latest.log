@@ -981,3 +981,7 @@ java.lang.Throwable: null
 [13Jan2025 03:55:18.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has completed the challenge [Harrowing Hunger]
 [13Jan2025 03:56:43.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Chamuscado was slain by Vampire Baron Level 2, they gave up
 [13Jan2025 03:58:26.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Chamuscado was slain by Vampire Baron Level 2, they gave up
+[13Jan2025 04:06:39.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Exposure]
+[13Jan2025 04:08:43.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Was that a spotlight? On me?]
+[13Jan2025 04:09:48.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chamuscado lost connection: Disconnected
+[13Jan2025 04:09:48.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado left the game
