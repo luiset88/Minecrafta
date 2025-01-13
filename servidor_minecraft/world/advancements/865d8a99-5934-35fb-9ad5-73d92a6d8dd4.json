@@ -312,6 +312,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2025-01-13 03:27:24 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-01-13 01:10:33 +0000"
@@ -327,6 +333,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-13 01:00:15 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2025-01-13 03:32:22 +0000"
     },
     "done": true
   },
