@@ -7684,3 +7684,11 @@ java.lang.Throwable: null
 [13Jan2025 03:43:32.138] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
 [13Jan2025 03:44:27.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 03:44:27.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 03:46:50.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1216, l='ServerLevel[world]', x=194.59, y=126.00, z=-2509.45, removed=DISCARDED]
+[13Jan2025 03:49:27.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 03:49:27.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 03:52:41.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Alex's Caves]
+[13Jan2025 03:54:27.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 03:54:27.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 03:54:36.171] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
+[13Jan2025 03:55:18.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has completed the challenge [Harrowing Hunger]

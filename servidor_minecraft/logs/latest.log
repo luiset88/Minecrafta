@@ -975,3 +975,7 @@ java.lang.Throwable: null
 [13Jan2025 03:42:58.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/40008, l='ServerLevel[world]', x=-139.50, y=152.00, z=-2467.30] died: Vampire Baron Level 1 was slain by Chamuscado
 [13Jan2025 03:43:14.677] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
 [13Jan2025 03:43:32.138] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
+[13Jan2025 03:46:50.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1216, l='ServerLevel[world]', x=194.59, y=126.00, z=-2509.45, removed=DISCARDED]
+[13Jan2025 03:52:41.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Alex's Caves]
+[13Jan2025 03:54:36.171] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/568, l='ServerLevel[world]', x=-232.13, y=115.00, z=-2540.00, removed=DISCARDED]
+[13Jan2025 03:55:18.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has completed the challenge [Harrowing Hunger]
