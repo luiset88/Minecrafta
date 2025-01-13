@@ -7446,3 +7446,75 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [13Jan2025 02:17:35.492] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/487, l='ServerLevel[world]', x=-198.50, y=160.00, z=-2406.44, removed=DISCARDED]
 [13Jan2025 02:19:27.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 02:19:27.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:24:27.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 02:24:27.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:28:34.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado did not like the sun
+[13Jan2025 02:28:34.043] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.12.jar%23252!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.12.jar%23252!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.12.jar%23252!/:1.20.1-1.10.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[13Jan2025 02:28:34.045] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.12.jar%23252!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.12.jar%23252!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.12.jar%23252!/:1.20.1-1.10.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[13Jan2025 02:28:34.046] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:141) ~[Vampirism-1.20.1-1.10.12.jar%23252!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.ModEntityEventHandler.onEntityEquipmentChange(ModEntityEventHandler.java:122) ~[Vampirism-1.20.1-1.10.12.jar%23252!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.__ModEntityEventHandler_onEntityEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.12.jar%23252!/:1.20.1-1.10.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[13Jan2025 02:28:44.287] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Chamuscado has new faction level vampirism:vampire 4
+[13Jan2025 02:29:27.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 02:29:27.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
