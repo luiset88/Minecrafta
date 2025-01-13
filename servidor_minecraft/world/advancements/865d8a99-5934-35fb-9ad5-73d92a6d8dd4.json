@@ -390,6 +390,12 @@
     },
     "done": true
   },
+  "cnc:wolverineadvancement": {
+    "criteria": {
+      "wolverineadvancement_0": "2025-01-13 18:15:08 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_monasteries": {
     "criteria": {
       "location0": "2025-01-13 17:59:52 +0000"
