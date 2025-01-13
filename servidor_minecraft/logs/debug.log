@@ -7044,3 +7044,7 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [13Jan2025 19:12:56.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado left the game
 [13Jan2025 19:16:22.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 19:16:22.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 19:21:22.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 19:21:22.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 19:26:22.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 19:26:22.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
