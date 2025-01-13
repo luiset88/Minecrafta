@@ -907,3 +907,10 @@ java.lang.Throwable: null
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[13Jan2025 02:36:36.388] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 02:36:36.588] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/487, l='ServerLevel[world]', x=-198.50, y=160.00, z=-2406.44, removed=DISCARDED]
+[13Jan2025 02:36:46.370] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 02:37:00.023] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 02:37:02.799] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 02:37:05.173] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:greywolf
+[13Jan2025 02:37:55.765] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
