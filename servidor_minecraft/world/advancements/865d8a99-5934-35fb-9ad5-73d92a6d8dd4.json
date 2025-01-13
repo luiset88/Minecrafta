@@ -242,6 +242,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-13 01:13:11 +0000",
       "minecraft:spider": "2025-01-12 04:42:01 +0000"
     },
     "done": false
@@ -285,6 +286,18 @@
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-01-13 00:55:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-13 01:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-13 01:00:15 +0000"
     },
     "done": true
   },
