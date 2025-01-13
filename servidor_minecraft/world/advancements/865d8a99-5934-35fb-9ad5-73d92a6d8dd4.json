@@ -378,27 +378,21 @@
     },
     "done": true
   },
-  "graveyard:graveyard/crypt": {
-    "criteria": {
-      "crypt": "2025-01-13 17:40:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-13 17:24:01 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/get_fd_seed": {
+  "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
-      "cabbage_seeds": "2025-01-13 18:34:48 +0000"
+      "deceived_hopes_0": "2025-01-13 17:26:01 +0000"
     },
     "done": true
   },
-  "cnc:wolverineadvancement": {
+  "graveyard:graveyard/crypt": {
     "criteria": {
-      "wolverineadvancement_0": "2025-01-13 18:15:08 +0000"
+      "crypt": "2025-01-13 17:40:09 +0000"
     },
     "done": true
   },
@@ -408,9 +402,21 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:deceived_hopes": {
+  "cnc:wolverineadvancement": {
     "criteria": {
-      "deceived_hopes_0": "2025-01-13 17:26:01 +0000"
+      "wolverineadvancement_0": "2025-01-13 18:15:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-01-13 18:34:48 +0000"
+    },
+    "done": true
+  },
+  "cnc:wendigo_killed": {
+    "criteria": {
+      "wendigo_killed_0": "2025-01-13 19:09:35 +0000"
     },
     "done": true
   },
