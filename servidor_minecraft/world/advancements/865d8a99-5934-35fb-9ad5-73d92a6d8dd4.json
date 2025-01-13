@@ -117,6 +117,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-01-12 04:04:39 +0000",
       "minecraft:taiga": "2025-01-12 04:11:53 +0000",
+      "minecraft:frozen_river": "2025-01-13 00:56:25 +0000",
       "minecraft:stony_shore": "2025-01-12 04:05:09 +0000",
       "minecraft:snowy_taiga": "2025-01-12 04:31:15 +0000",
       "minecraft:grove": "2025-01-12 04:38:42 +0000",
@@ -239,12 +240,6 @@
     },
     "done": true
   },
-  "cnc:whitetail_advancement": {
-    "criteria": {
-      "whitetail_advancement_0": "2025-01-12 04:39:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-01-12 04:42:01 +0000"
@@ -275,15 +270,21 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-01-12 17:00:28 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-01-12 17:03:06 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/potions": {
+  "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
-      "has_item": "2025-01-12 17:00:28 +0000"
+      "dark_metallurgy_0": "2025-01-13 00:55:26 +0000"
     },
     "done": true
   },
