@@ -7432,3 +7432,17 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [13Jan2025 02:04:27.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Jan2025 02:09:27.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 02:09:27.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:14:27.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 02:14:27.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:15:33.012] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id corpse:corpse
+[13Jan2025 02:15:40.418] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/487, l='ServerLevel[world]', x=-198.50, y=160.00, z=-2406.44, removed=DISCARDED]
+[13Jan2025 02:15:40.419] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 02:16:25.277] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 02:16:25.325] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/487, l='ServerLevel[world]', x=-198.50, y=160.00, z=-2406.44, removed=DISCARDED]
+[13Jan2025 02:16:47.443] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 02:16:49.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado was slain by Vampire Hunter
+[13Jan2025 02:16:51.808] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Chamuscado has new faction level vampirism:vampire 4
+[13Jan2025 02:17:35.344] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/485, l='ServerLevel[world]', x=-198.05, y=161.00, z=-2405.15, removed=DISCARDED]
+[13Jan2025 02:17:35.492] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/487, l='ServerLevel[world]', x=-198.50, y=160.00, z=-2406.44, removed=DISCARDED]
+[13Jan2025 02:19:27.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 02:19:27.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
