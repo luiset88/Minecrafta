@@ -7149,3 +7149,26 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [14Jan2025 04:09:43.459] [Worker-Main-66/DEBUG] [ModernFix/]: Structure mvs:well/wells/nether_well is being run through DFU (hash c3128b88b38cf1707cfac4b83559fb9a6f02be7ed4ea479d27cd9cfaf228c555), this will cause launch time delays
 [14Jan2025 04:09:44.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4047ms or 80 ticks behind
 [14Jan2025 04:09:49.459] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[14Jan2025 04:09:56.620] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[14Jan2025 04:09:56.621] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[14Jan2025 04:09:56.621] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[14Jan2025 04:09:56.626] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[14Jan2025 04:10:02.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 04:10:02.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 04:10:44.939] [Worker-Main-59/DEBUG] [ModernFix/]: Structure cataclysm:soulblacksmith2 is being run through DFU (hash eec5fcbc88c7757a9d14fea20520fefc27e2f54c11daf642420c46ad6d53f746), this will cause launch time delays
+[14Jan2025 04:10:45.553] [Worker-Main-59/DEBUG] [ModernFix/]: Structure cataclysm:soulblacksmith is being run through DFU (hash f73241e141a2b7af2130785c8c527782dc67664a95f831cef11e7de72b81ad5e), this will cause launch time delays
+[14Jan2025 04:13:47.211] [Worker-Main-66/DEBUG] [ModernFix/]: Structure mvs:other_decoration/crimson_enchanting_table is being run through DFU (hash 1d80d04b1396ddc0382afc3cf15c84e54887b098b319cbfa29b6e7ed9af591a3), this will cause launch time delays
+[14Jan2025 04:14:09.420] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity quark:foxhound
+[14Jan2025 04:15:02.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 04:15:02.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 04:20:02.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 04:20:02.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 04:23:29.360] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[14Jan2025 04:23:29.462] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[14Jan2025 04:23:29.544] [Worker-Main-73/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[14Jan2025 04:23:30.571] [Worker-Main-70/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[14Jan2025 04:23:31.098] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[14Jan2025 04:23:31.442] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/bee_dome
+[14Jan2025 04:23:34.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6013ms or 120 ticks behind
+[14Jan2025 04:25:08.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 04:25:08.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
