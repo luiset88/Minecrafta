@@ -776,3 +776,6 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [14Jan2025 02:52:31.631] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [14Jan2025 02:52:31.631] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [14Jan2025 02:57:29.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has reached the goal [Horror Under the Mantle]
+[14Jan2025 02:58:41.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [It Belongs in a Museum]
+[14Jan2025 02:58:51.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Hunt and Gather]
+[14Jan2025 03:07:06.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Ice Bucket Challenge]

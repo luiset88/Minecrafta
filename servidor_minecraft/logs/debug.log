@@ -7038,3 +7038,72 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [14Jan2025 02:55:40.809] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockStatePairKeyMixin from canary.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
 [14Jan2025 02:57:29.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has reached the goal [Horror Under the Mantle]
 [14Jan2025 02:57:47.175] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[14Jan2025 02:58:41.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [It Belongs in a Museum]
+[14Jan2025 02:58:51.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Hunt and Gather]
+[14Jan2025 02:59:58.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:59:58.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 03:02:02.319] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.03 and blood value 0 for entity cnc:mouse
+[14Jan2025 03:02:11.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[14Jan2025 03:02:12.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/villager_statue
+[14Jan2025 03:02:15.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:railway
+[14Jan2025 03:02:16.972] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.44 and blood value 10 for entity untamedwilds:big_cat
+[14Jan2025 03:02:16.972] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.5 and blood value 3 for entity cnc:snake
+[14Jan2025 03:02:17.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower2
+[14Jan2025 03:02:17.761] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity cnc:coyote
+[14Jan2025 03:02:19.496] [Server thread/DEBUG] [mixin/]: Mixing MineshaftPiecesMixin from supplementaries-common.mixins.json into net.minecraft.world.level.levelgen.structure.structures.MineshaftPieces
+[14Jan2025 03:02:19.512] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity untamedwilds:boar
+[14Jan2025 03:02:19.677] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity untamedwilds:boar
+[14Jan2025 03:02:21.274] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.44 and blood value 10 for entity untamedwilds:big_cat
+[14Jan2025 03:02:22.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_10
+[14Jan2025 03:02:23.121] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity untamedwilds:boar
+[14Jan2025 03:02:24.525] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.14 and blood value 15 for entity cnc:elk
+[14Jan2025 03:02:24.539] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.5 and blood value 3 for entity cnc:pit_viper
+[14Jan2025 03:02:24.540] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity untamedwilds:boar
+[14Jan2025 03:02:27.816] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity untamedwilds:boar
+[14Jan2025 03:02:35.026] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.5 and blood value 0 for entity cnc:giant_boar
+[14Jan2025 03:02:41.923] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.65 and blood value 4 for entity cnc:wolverine
+[14Jan2025 03:02:45.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:ruins/statue_ruins
+[14Jan2025 03:02:47.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:horse_pen
+[14Jan2025 03:03:02.164] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.65 and blood value 4 for entity cnc:wolverine
+[14Jan2025 03:03:03.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_lower_no_chest
+[14Jan2025 03:03:04.645] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fire_camp
+[14Jan2025 03:03:07.428] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity cnc:cougar
+[14Jan2025 03:03:09.172] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity cnc:cougar
+[14Jan2025 03:03:23.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[14Jan2025 03:03:27.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_04
+[14Jan2025 03:03:27.216] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[14Jan2025 03:03:34.617] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[14Jan2025 03:03:40.421] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[14Jan2025 03:03:40.421] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[14Jan2025 03:03:40.421] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[14Jan2025 03:03:40.422] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.48 and blood value 15 for entity untamedwilds:camel
+[14Jan2025 03:03:53.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[14Jan2025 03:03:53.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_1
+[14Jan2025 03:03:53.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_0
+[14Jan2025 03:03:53.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_2
+[14Jan2025 03:03:53.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_3_stairs
+[14Jan2025 03:03:54.000] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridor_0
+[14Jan2025 03:03:54.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/villager_normal_0
+[14Jan2025 03:03:54.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/iron_golem_normal_0
+[14Jan2025 03:03:54.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_top_0
+[14Jan2025 03:03:54.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridors_deco_2
+[14Jan2025 03:03:54.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridors_deco_3
+[14Jan2025 03:03:54.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridor_terminator
+[14Jan2025 03:03:54.024] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_deco_empty
+[14Jan2025 03:03:58.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/taiga/base_plate
+[14Jan2025 03:03:58.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/vindicator
+[14Jan2025 03:03:58.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/pillager
+[14Jan2025 03:03:58.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
+[14Jan2025 03:04:10.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[14Jan2025 03:04:21.153] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.2 and blood value 15 for entity untamedwilds:spitter
+[14Jan2025 03:04:36.014] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 5.6 and blood value 0 for entity quark:toretoise
+[14Jan2025 03:04:58.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 03:04:58.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 03:05:44.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_4
+[14Jan2025 03:05:44.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fisher_1
+[14Jan2025 03:05:44.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_mason_1
+[14Jan2025 03:05:44.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_armorer_1
+[14Jan2025 03:05:44.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_01
+[14Jan2025 03:05:44.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_butcher_1
+[14Jan2025 03:05:44.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_3
+[14Jan2025 03:07:06.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chamuscado has made the advancement [Ice Bucket Challenge]

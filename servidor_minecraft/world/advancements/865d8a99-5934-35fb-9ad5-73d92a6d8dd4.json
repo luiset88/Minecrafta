@@ -420,5 +420,23 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-01-14 02:58:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-14 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-01-14 02:57:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
