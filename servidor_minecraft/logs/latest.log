@@ -787,3 +787,4 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [14Jan2025 03:22:20.241] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
 [14Jan2025 03:22:34.373] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
 [14Jan2025 03:39:12.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Chamuscado hit the ground too hard, they gave up
+[14Jan2025 03:55:50.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/12080, l='ServerLevel[world]', x=-33.23, y=130.75, z=-2535.33] died: Vampire Baron Level 2 was slain by Vampire Baron Level 4
