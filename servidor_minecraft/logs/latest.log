@@ -786,3 +786,4 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [14Jan2025 03:22:20.240] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
 [14Jan2025 03:22:20.241] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
 [14Jan2025 03:22:34.373] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
+[14Jan2025 03:39:12.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Chamuscado hit the ground too hard, they gave up

@@ -7124,3 +7124,9 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [14Jan2025 03:22:34.373] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cnc:whitetail
 [14Jan2025 03:24:58.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jan2025 03:24:58.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 03:29:58.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 03:29:58.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 03:34:58.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 03:34:58.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 03:39:12.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Chamuscado hit the ground too hard, they gave up
+[14Jan2025 03:39:14.174] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Chamuscado has new faction level vampirism:vampire 4
